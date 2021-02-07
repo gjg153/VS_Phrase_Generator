@@ -1,1 +1,1 @@
-# Mixed message generator using Javascript
+# Mixed message generator using Javascript for Codecademy
